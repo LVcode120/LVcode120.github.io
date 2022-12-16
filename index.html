@@ -21,7 +21,7 @@ My GitHub page is http://github.com/LVcode120.
     Lab 11, part 2 was a favorite because I was always curious how games used randomness
     for a unique experience each time. Object-Oriented programs with their own algorithms are
     something that is defenitely important to learn as seen here with such a simple guessing game like
-    Hi-Lo. Another reason why I liked his particular part was because I recall programming a guessing game
+    Hi-Lo. Another reason why I liked this particular part was because I recall programming a guessing game
     similar to this one in python when I was in highschool.
 
 * Lab 12
